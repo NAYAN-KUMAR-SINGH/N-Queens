@@ -49,7 +49,7 @@ The N-Queens puzzle is solved using a recursive backtracking algorithm. Here's a
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/NAYAN-KUMAR-SINGH/N-Queens/](https://github.com/NAYAN-KUMAR-SINGH/N-Queens/)
+   git clone https://github.com/NAYAN-KUMAR-SINGH/N-Queens/
    ```
 2. Navigate to the project directory:
    ```bash
